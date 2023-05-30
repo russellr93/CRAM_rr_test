@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project C.R.A.M.</title>
+    <link rel="stylesheet" href="style.css">
+     <!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="047761009776542473">new CoolorsPaletteWidget("047761009776542473", ["00296b","003f88","00509d","fdc500","ffd500"],"CRAM Project"); </script>
+    
+</head>
+<body>
+    
+    <h1>In The Vault</h1>
+    <hr>
+    <h2>Our Purpose</h2>
+    <label for="team">Meet the Core Team:</label> 
+    <select name="team" id="team"> 
+        <option value="Eugene">Eugene</option> 
+        <option value="Paul">Paul</option> 
+        <option value="Todd">Todd</option> 
+        <option value="Russell">Russell</option> 
+    </select>
+    <div>
+        <img src="images/foodplace.jpg" alt="Restaurant" id="restaurant">
+        <p>
+            "Bridging the half-life gap between what's left of any real food".
+        </p>
+    </div>
+    <br>
+        <p>
+            In the bleak aftermath of an unfathomable catastrophe, an unlikely beacon of hope emerged in the form of a post-apocalyptic restaurant business known as "Scavenger's Table." Located amidst the ruins of what was once a bustling city, this culinary oasis defied the desolation that surrounded it. Scavenger's Table embraced the spirit of resourcefulness, sourcing ingredients from the remnants of a ravaged world. Mutant plants and unconventional protein sources found their way onto plates, transformed into delectable and unexpected creations that pushed the boundaries of traditional cuisine.
+
+Inside Scavenger's Table, the atmosphere was a juxtaposition of rugged charm and faded elegance. Patrons, adorned in tattered clothing, gathered around repurposed tables fashioned from scavenged materials. Soft candlelight flickered, casting a warm glow on the worn wooden floors, while the sounds of clinking cutlery and murmured conversations echoed through the space. It was a place where survivors could momentarily forget the harsh realities of their existence and find solace in the comfort of a shared meal.
+
+The passionate chefs of Scavenger's Table, masters of culinary ingenuity, skillfully combined meager ingredients into culinary delights that surpassed expectations. They transformed scarcity into abundance, crafting dishes that tantalized the taste buds and ignited the imagination. Each bite served as a reminder that amidst the chaos, beauty and creativity could still thrive, and that even in the face of adversity, the power of food had the ability to nourish not only the body but also the spirit.
+        </p>
+    </section>
+</body>
+<hr>
+<p>Established 3035 &copy</p>
+</html>

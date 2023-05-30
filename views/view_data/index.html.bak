@@ -1,0 +1,6 @@
+{{extend 'layout.html'}}
+<h1>This is the view_data/index.html template</h1>
+{{=BEAUTIFY(response._vars)}}
+////splash page after login for user profile//
+table of upcoming events for profile
+needs a link to profile contacts, companies, notes
